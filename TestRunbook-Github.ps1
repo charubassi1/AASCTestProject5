@@ -1,1 +1,1 @@
-Write-Host 'Testing autosync - by Charu'
+Write-Host 'Testing autosync.'
